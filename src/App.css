@@ -1,0 +1,32 @@
+body {
+  background-color:blanchedalmond;
+}
+
+#title{
+  text-align:center;
+  margin-bottom:100px;
+}
+
+.status {
+  text-align:center;
+  font-weight:bold;
+  margin-top: 30px;
+}
+
+.square {
+  border-style:solid;
+  font-weight:bold;
+  width:100px;
+  height:100px;
+  font-size:50px;
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+}
+
+.time-machine {
+  display: flex;
+  justify-content: center;
+}
